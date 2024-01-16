@@ -10,7 +10,7 @@ st.set_page_config(page_title="my website ",page_icon="🔝",layout="wide")
 
 
 
-img_Rl = Image.open(r"\Users\Abdu\Desktop\website1\images\RL.png")
+img_Rl = Image.open("\\Users\\Abdu\\Desktop\\website1\\images\\RL.png")
 
 
 
